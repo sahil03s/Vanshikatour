@@ -1,0 +1,1314 @@
+{
+    "kashi-varanasi-tour" : {
+        "link" : "kashi-varanasi-tour",
+        "heading" : "Kashi/Varanasi Tour",
+        "overview" : [
+            {
+                "type" : "heading",
+                "content" : "Discover the Spiritual Heart of India - Kashi"
+            }, 
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "Embark on a journey of spiritual enlightenment and cultural immersion with Vanshika Travels' thoughtfully curated Kashi Tour Packages. Varanasi, also known as Kashi, is one of the oldest continuously inhabited cities in the world, renowned for its profound spiritual significance, captivating rituals, and timeless traditions."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "Experience the Essence of Varanasi:", "bold" : true},
+                    {"text" : "Our Kashi Tour Packages offer an unforgettable experience of this ancient city, including:"}
+                ]
+            },
+            {
+                "type":"unordered-list",
+                "content": [
+                    {"text":"Witness the Divine: ", "description":"Experience the mesmerizing Ganga Aarti at the ghats, a breathtaking spectacle of light, sound, and devotion."},
+                    {"text":"Explore Iconic Temples: ", "description":"Visit renowned temples like Kashi Vishwanath, a revered Hindu temple dedicated to Lord Shiva, and Sankat Mochan, a temple dedicated to Lord Hanuman."},
+                    {"text":"Serene Boat Rides: ", "description":"Glide peacefully on the sacred Ganges River, taking in the breathtaking views of the ghats and immersing yourself in the serene atmosphere."},
+                    {"text":"Discover Buddha's Legacy: ", "description":"Explore Sarnath, the site where Lord Buddha gave his first sermon, and witness the magnificent Ashoka Pillar and Dhamek Stupa."},
+                    {"text":"Indulge in Shopping: ", "description":"Shop for exquisite Banarasi silk sarees, intricate handicrafts, and other local treasures."},
+                    {"text":"Immerse in Varanasi's Culture: ", "description":"Experience the vibrant culture of Varanasi through its music, dance, and traditional arts."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"With Vanshika Travels, your Kashi pilgrimage will be an unforgettable experience filled with spiritual awakening and cultural enrichment.", "bold":true}
+                ]
+            }
+        ],
+        "duration" : "2N/3D",
+        "route" : ["Varanasi"],
+        "image" : [
+            {"src": "/images/places/varanasi/ganga_aarti/ganga_aarti_1.jpg", "alt": "Evening Ganga Aarti ceremony at Dashashwamedh Ghat Varanasi with priests performing rituals by the river."},
+            {"src": "/images/places/varanasi/temple/kashi_vishwanath_dham_1.png", "alt": "Kashi Vishwanath Temple in Varanasi with its golden spire and intricate architecture."},
+            {"src": "/images/places/varanasi/temple/ganga_dwar_kashi_vishwanath_dham.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/ghat/boating_view_ganga_2.jpg", "alt" : "Boating along the ghats of Banaras with views of temples and historic structures by the Ganga River."},
+            {"src": "/images/places/varanasi/sarnath/sarnath_temple_1.jpg", "alt": "Sarnath Temple, a significant Buddhist site featuring elegant architecture and serene surroundings, marking the location of Buddha's first sermon."},
+            {"src": "/images/places/varanasi/sarnath/dhamek_stupa_1.jpg", "alt": "Historic Dhamek Stupa at Sarnath, Varanasi a massive cylindrical structure symbolizing Buddha’s first sermon."},
+            {"src": "/images/places/varanasi/sarnath/buddha_statue_sarnath_3.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src": "/images/places/varanasi/sarnath/giant_bell_mulagandhakuti_vihara.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src": "/images/places/varanasi/sarnath/sarnath_archaeological_museum_statues.jpg", "alt" : "Abc"},
+            {"src": "/images/places/varanasi/sarnath/ashoka_pillar_sarnath.jpg", "alt" : "Abc"},
+            {"src": "/images/places/varanasi/temple/sankat_mochan.jpg", "alt": "Sankat Mochan Hanuman Temple in Durgakund Varanasi, a revered shrine surrounded by lush greenery."}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival and Evening Bliss",
+                "desc" : [
+                    {
+                        "text" : "Arrival:",
+                        "description" : "Arrive in Varanasi and check into your hotel."
+                    },
+                    {
+                        "text" : "Ganga Aarti:",
+                        "description" : "Witness the mesmerizing Ganga Aarti at Dashashwamedh Ghat, a spiritual spectacle of light, sound, and devotion."
+                    },
+                    {
+                        "text" : "Dinner:",
+                        "description" : "Enjoy a delicious North Indian dinner at a local restaurant."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Exploring the Spiritual Heart of Varanasi",
+                "desc" : [
+                    {
+                        "text" : "Morning:",
+                        "description" : "Visit the iconic Kashi Vishwanath Temple, one of the twelve Jyotirlingas of Lord Shiva."
+                    },
+                    {
+                        "text" : "Lunch:",
+                        "description" : "Have a traditional Indian lunch at a local restaurant."
+                    },
+                    {
+                        "text" : "Boat Ride:",
+                        "description" : "Take a serene boat ride on the Ganges River, enjoying the breathtaking views of the ghats."
+                    },
+                    {
+                        "text" : "Evening:",
+                        "description" : "Visit Sarnath, the site of Lord Buddha's first sermon, and explore the Ashoka Pillar and Dhamek Stupa."
+                    }
+                ]
+            },
+            {
+                "day" : "Day3",
+                "heading" : "Cultural Immersion and Departure",
+                "desc" : [
+                    {
+                        "text" : "Morning:",
+                        "description" : "Visit the Sankat Mochan Temple, dedicated to Lord Hanuman."
+                    },
+                    {
+                        "text" : "Shopping:",
+                        "description" : "Explore the local markets for Banarasi silk sarees, handicrafts, and other souvenirs."
+                    },
+                    {
+                        "text" : "Lunch:",
+                        "description" : "Enjoy a farewell lunch at a local restaurant."
+                    },
+                    {
+                        "text" : "Departure:",
+                        "description" : "Check out of your hotel and depart for your onward journey."
+                    }
+                ]
+            }
+
+        ],
+        "featured" : {
+            "visible" : false,
+            "description" : "Varanasi Tour",
+            "image" : { "src": "/images/places/varanasi/ghat/boating_view_ganga_2.jpg", "alt": "Boating along the ghats of Banaras with views of temples and historic structures by the Ganga River."}
+        }
+    },
+    
+    "varanasi-bodhgaya-rajgir-and-nalanda" : {
+        "link" : "varanasi-bodhgaya-rajgir-and-nalanda",
+        "heading" : "Varanasi, Bodhgaya, Rajgir and Nalanda",
+        "overview" : [
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"Explore the Spiritual Roots of Buddhism with Vanshika Tour & Travels"}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"Buddhism has profound historical and spiritual roots in Varanasi and Bihar, two of India’s most sacred regions. Varanasi, also known as Sarnath in Buddhist texts, is the revered location where Lord Buddha delivered his first sermon after attaining enlightenment, unveiling the timeless truths of the Four Noble Truths and the Eightfold Path."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"Sarnath’s Dhamek Stupa, along with its ancient monastic ruins, attracts pilgrims and scholars seeking to connect with the wisdom of the Buddha. Just a short distance away in Bihar lies Bodhgaya, the holiest site of all, where Siddhartha Gautama achieved enlightenment under the legendary Bodhi tree, marking the birth of Buddhism. Close by, the ancient Nalanda University was once the pinnacle of Buddhist education, while Rajgir stands as a location of significant discourses delivered by Buddha."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"At Vanshika Tour & Travels, we invite you to embark on this transformative journey to explore these sacred sites, where the teachings of Buddha continue to inspire millions around the world."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"With Vanshika Travels, your Kashi to Patna pilgrimage will be an unforgettable experience filled with spiritual awakening and cultural enrichment.", "bold":true}
+                ]
+            }
+        ],
+        "duration" : "3N/4D",
+        "route" : ["Varanasi","Bodhgaya","Rajgir","Nalanda"],
+        "image" : [
+            {"src": "/images/places/varanasi/ganga_aarti/ganga_aarti_6.jpg", "alt": "Abc."},
+            {"src": "/images/places/varanasi/temple/kashi_vishwanath_dham_1.png", "alt": "Kashi Vishwanath Temple in Varanasi with its golden spire and intricate architecture."},
+            {"src": "/images/places/varanasi/ghat/boating_view_ganga_1.jpg", "alt" : "Boating along the ghats of Banaras with views of temples and historic structures by the Ganga River."},
+            {"src": "/images/places/varanasi/sarnath/sarnath_temple_1.jpg", "alt": "Sarnath Temple, a significant Buddhist site featuring elegant architecture and serene surroundings, marking the location of Buddha's first sermon."},
+            {"src": "/images/places/varanasi/sarnath/dhamek_stupa_2.jpg", "alt": "Historic Dhamek Stupa at Sarnath, Varanasi a massive cylindrical structure symbolizing Buddha’s first sermon."},
+            {"src": "/images/places/varanasi/sarnath/buddha_statue_sarnath_1.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src": "/images/places/varanasi/sarnath/giant_bell_mulagandhakuti_vihara.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/sarnath/ashoka_pillar_sarnath.jpg", "alt" : "Abc"},
+            {"src": "/images/places/bodhgaya/mahabodhi_temple_2.jpg", "alt": "Sacred Mahabodhi Temple in Bodhgaya, Bihar India, featuring its towering spire and serene surroundings, marking the site of Buddha's enlightenment."},
+            {"src": "/images/places/bodhgaya/mahabodhi_temple_wall_carvings.jpg", "alt": "Intricate wall carvings at the Mahabodhi Temple in Bodhgaya, Bihar India depicting beautiful Buddha statues and Buddhist symbolism."},
+            {"src": "/images/places/bodhgaya/buddha_statue.jpg", "alt": "Majestic seated Buddha statue at Bodhgaya India, radiating tranquility and surrounded by lush greenery."},
+            {"src": "/images/places/bodhgaya/buddhist_golden_pagoda.jpg", "alt": "Stunning Buddhist Golden Pagoda at Bodhgaya, featuring a gleaming golden exterior and intricate architectural details."},
+            {"src": "/images/places/bodhgaya/mahabodhi_tree.png", "alt": "Sacred Mahabodhi Tree in Bodhgaya, India, under which Buddha attained enlightenment, surrounded by devotees."},
+            {"src": "/images/places/bodhgaya/tibetan_monastery.jpg", "alt": "Vibrant Tibetan Monastery in Bodhgaya, with intricate architecture, and peaceful gardens"},
+            {"src": "/images/places/rajgir/buddha_ghora_katora_lake_1.jpg", "alt": "Buddha statue seated in meditation at Ghora Katora Lake, Rajgir, with lush green hills and a colorful sky in the background."},
+            {"src": "/images/places/rajgir/vishwa_shanti_stupa_2.jpg", "alt": "Buddha statue seated in meditation at Ghora Katora Lake, Rajgir, with lush green hills and a colorful sky in the background."},
+            {"src": "/images/places/nalanda/nalanda_ruins.jpg", "alt": "Abc"},
+            {"src": "/images/places/nalanda/nalanda_archaeology_museum.jpg", "alt": "Nalanda Archaeological Museum, featuring ancient artifacts and sculptures displayed in a modern setting, surrounded by beautiful gardens."}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival in Varanasi and Ganga Aarti",
+                "desc" : [
+                    {
+                        "text" : "Arrival:",
+                        "description" : "Arrive in Varanasi and check into your hotel."
+                    },
+                    {
+                        "text" : "Evening:",
+                        "description" : "Witness the mesmerizing Ganga Aarti at Dashashwamedh Ghat, a spiritual spectacle of light, sound, and devotion."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Exploring Varanasi",
+                "desc" : [
+                    {
+                        "text" : "Morning:",
+                        "description" : "Visit the iconic Kashi Vishwanath Temple, one of the twelve Jyotirlingas of Lord Shiva."
+                    },
+                    {
+                        "text" : "Afternoon:",
+                        "description" : "Take a serene boat ride on the Ganges River."
+                    },
+                    {
+                        "text" : "Evening:",
+                        "description" : "Explore Sarnath, the site of Lord Buddha's first sermon, and witness the Ashoka Pillar and Dhamek Stupa."
+                    }
+                ]
+            },
+            {
+                "day" : "Day3",
+                "heading" : "Bodhgaya and Rajgir",
+                "desc" : [
+                    {
+                        "text" : "Morning:",
+                        "description" : "Depart for Bodhgaya, the place of Buddha's enlightenment."
+                    },
+                    {
+                        "text" : "Afternoon:",
+                        "description" : "Visit the Mahabodhi Temple, a UNESCO World Heritage Site, and the Bodhi Tree under which Buddha attained enlightenment."
+                    },
+                    {
+                        "text" : "Evening:",
+                        "description" : "Proceed to Rajgir, an ancient city with historical significance."
+                    }
+                ]
+            },
+            {
+                "day" : "Day4",
+                "heading" : "Rajgir and Nalanda",
+                "desc" : [
+                    {
+                        "text" : "Morning:",
+                        "description" : "Explore the ancient ruins of Rajgir, including the Griddha Kutta Hill and the hot springs."
+                    },
+                    {
+                        "text" : "Afternoon:",
+                        "description" : "Visit Nalanda University, one of the world's oldest universities."
+                    },
+                    {
+                        "text" : "Evening:",
+                        "description" : "Depart for your onward journey (Either from Patna or wherever you want)."
+                    }
+                ]
+            }
+
+        ],
+        "featured" : {
+            "visible" : true,
+            "description" : "Varanasi-Bodhgaya",
+            "image" : {"src": "/images/places/bodhgaya/mahabodhi_temple_2.jpg", "alt": "Sacred Mahabodhi Temple in Bodhgaya, Bihar India, featuring its towering spire and serene surroundings, marking the site of Buddha's enlightenment."}
+        } 
+    },
+
+    "lucknow-ayodhya-prayagraj-chitrakoot-and-varanasi" : {
+        "link" : "lucknow-ayodhya-prayagraj-chitrakoot-and-varanasi",
+        "heading" : "Lucknow, Ayodhya, Prayagraj, Chitrakoot and Varanasi",
+        "overview" : [],
+        "duration" : "6N/7D",
+        "route" : ["Lucknow", "Ayodhya", "Prayagraj", "Chitrakoot", "Varanasi"],
+        "image" : [
+            {"src": "/images/places/lucknow/bara_imambara_2.jpg", "alt": "Grand Bara Imambara in Lucknow Uttar Pradesh, featuring its impressive Mughal architecture, large arched entrance, and lush gardens."},
+            {"src": "/images/places/lucknow/bara_imambara_1.jpg", "alt": "Grand Bara Imambara in Lucknow UP, featuring its impressive Mughal architecture, large arched entrance, and lush gardens."},
+            {"src": "/images/places/lucknow/chota_imambara_1.jpg", "alt": "Chota Imambara in Lucknow Uttar Pradesh, featuring beautiful designs and a large chandelier, set in lovely gardens."},
+            {"src": "/images/places/lucknow/rumi_darwaza.jpg", "alt": "Rumi Darwaza in Lucknow Uttar Pradesh, a grand gateway with intricate designs and tall arches, symbolizing the rich heritage of the city."},
+            {"src": "/images/places/lucknow/british_residency_1.jpg", "alt": "British Residency in Lucknow Uttar Pradesh, showcasing historic ruins with colonial architecture set in peaceful gardens, a reminder of the city's history."},
+            {"src": "/images/places/lucknow/british_residency_2.jpg", "alt": "Ruins of the British Residency in Lucknow, featuring two historic cannons positioned in front of the crumbling walls, surrounded by greenery."},
+            {"src": "/images/places/lucknow/hussainabad_clock_tower_1.jpg", "alt": "Hussainabad Clock Tower in Lucknow, a tall and elegant structure with detailed architecture, standing prominently against a clear sky."},
+            {"src": "/images/places/lucknow/lucknow_residency_museum.jpg", "alt": "Historic cannon at the Lucknow Residency, showcasing its sturdy design and historical significance, set against the backdrop of ancient ruins."},
+            {"src": "/images/places/lucknow/lucknow_residency_ruins_4.jpg", "alt": "Colonel Robert Hope Memorial in Lucknow, featuring a striking statue with the historic ruins of the Lucknow Residency visible behind it."},
+            {"src": "/images/places/ayodhya/ram_janmabhoomi_2.jpg", "alt": "Beautiful Ram Janmabhoomi Mandir in Ayodhya, Uttar Pradesh, featuring stunning architecture and rich historic significance"},
+            {"src": "/images/places/ayodhya/saryu_river_nayaghat.jpg", "alt": "Scenic view of the Saryu River at Nayaghat in Ayodhya, featuring calm waters and lush greenery along the banks, with colorful boats docked at the shore."},
+            {"src": "/images/places/ayodhya/lata_mangeshkar_chowk.jpg", "alt": "Veena sculpture at Lata Mangeshkar Chowk, Ayodhya, honoring legendary singer Lata Mangeshkar's contribution to Indian music."},
+            {"src": "/images/places/ayodhya/hanuman_garhi_2.jpg", "alt": "Abc"},
+            {"src": "/images/places/ayodhya/hanuman_garhi.jpg", "alt": "Abc"},
+            {"src": "/images/places/prayagraj/triveni_sangam_3.jpg", "alt" : ""},
+            {"src": "/images/places/prayagraj/triveni_sangam_1.jpg", "alt" : ""},
+            {"src": "/images/places/prayagraj/kumbh_tents.jpg", "alt" : ""},
+            {"src": "/images/places/prayagraj/akbar_fort_3.jpg", "alt" : ""},
+            {"src": "/images/places/prayagraj/akbar_fort_1.jpg", "alt" : ""},
+            {"src": "/images/places/prayagraj/khusro_bagh.jpg", "alt" : ""},
+            {"src": "/images/places/chitrakoot/ramghat_2.jpg", "alt": "Scenic view of Ramghat in Chitrakoot, featuring calm river waters with several colorful boats lined along the banks of Mandakini river."},
+            {"src": "/images/places/chitrakoot/bharat_milap_mandir.jpg", "alt": "Abc"},
+            {"src": "/images/places/chitrakoot/boating_view.jpeg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/ganga_aarti/ganga_aarti_1.jpg", "alt": "Evening Ganga Aarti ceremony at Dashashwamedh Ghat Varanasi with priests performing rituals by the river."},
+            {"src": "/images/places/varanasi/ghat/boating_view_ganga_2.jpg", "alt" : "Boating along the ghats of Banaras with views of temples and historic structures by the Ganga River."},
+            {"src": "/images/places/varanasi/sarnath/sarnath_temple_1.jpg", "alt": "Sarnath Temple, a significant Buddhist site featuring elegant architecture and serene surroundings, marking the location of Buddha's first sermon."},
+            {"src": "/images/places/varanasi/sarnath/dhamek_stupa_1.jpg", "alt": "Historic Dhamek Stupa at Sarnath, Varanasi a massive cylindrical structure symbolizing Buddha’s first sermon."},
+            {"src": "/images/places/varanasi/sarnath/buddha_statue_sarnath_3.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src": "/images/places/varanasi/sarnath/giant_bell_mulagandhakuti_vihara.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src": "/images/places/varanasi/sarnath/ashoka_pillar_sarnath.jpg", "alt" : "Abc"}
+    
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival in Lucknow",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Check-in to your hotel."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore the city's rich history and culture through visits to the Bara Imambara, Chota Imambara, and the Lucknow Residency."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Enjoy a Nawabi dinner at a local restaurant."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Lucknow to Ayodhya",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Drive to Ayodhya, the birthplace of Lord Rama."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit the Ram Janmabhoomi Temple complex, Hanuman Garhi, and the banks of the Sarayu River."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Attend the evening Aarti at the ghats."
+                    }
+                ]
+            },
+            {
+                "day" : "Day3",
+                "heading" : "Ayodhya to Prayagraj",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Continue your journey to Prayagraj (Allahabad), the confluence of the Ganga, Yamuna, and Saraswati rivers."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit the Triveni Sangam, where the three rivers meet."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore the Allahabad Fort and the Kumbh Mela ground."
+                    }
+                ]
+            },
+            {
+                "day" : "Day4",
+                "heading" : "Prayagraj to Chitrakoot",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Drive to Chitrakoot, a serene hill station known for its mythological significance."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit the Ramghat, Hanuman Dhara, and Bharat Milap Mandir."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Enjoy a boat ride on the Mandakini River."
+                    }
+                ]
+            },
+            {
+                "day" : "Day5",
+                "heading" : "Chitrakoot to Varanasi",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Drive to Varanasi, one of the holiest cities in India."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Take a boat ride on the Ganges at sunrise to witness the Ganga Aarti."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore the ghats, temples, and narrow alleys of the old city."
+                    }
+                ]
+            },
+            {
+                "day" : "Day6",
+                "heading" : "Varanasi",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Visit Sarnath, where Buddha gave his first sermon."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore the Ashoka Pillar and the Dhamekh Stupa."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Attend the evening Ganga Aarti at Dashashwamedh Ghat."
+                    }
+                ]
+            },
+            {
+                "day" : "Day7",
+                "heading" : "Departure from Varanasi",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Check out from your hotel and depart for your onward journey."
+                    }
+                ]
+            }
+        ],
+        "tips" : [
+            {
+                "text" : "Best time to visit:",
+                "description" : "October to March is the ideal time to visit these cities, as the weather is pleasant."
+            },
+            {
+                "text" : "Accommodation:",
+                "description" : "Choose hotels or guesthouses near the main attractions for convenience."
+            },
+            {
+                "text" : "Food:",
+                "description" : "Enjoy local delicacies like Awadhi cuisine in Lucknow, chaat in Varanasi, and street food in Prayagraj."
+            },
+            {
+                "text" : "Transportation:",
+                "description" : "Renting a car or hiring a taxi is the most convenient way to travel between cities."
+            },
+            {
+                "text" : "Spiritual experiences:",
+                "description" : "Attend religious ceremonies, meditation sessions, or yoga classes to deepen your spiritual experience."
+            }
+        ],
+        "featured" : {
+            "visible" : true,
+            "description" : "Lucknow-Varanasi",
+            "image" : { "src": "/images/places/lucknow/chota_imambara_1.jpg", "alt": "The beautiful Chota Imambara in Lucknow, reflected in a tranquil water pool, with detailed domes and pillars in the background."}
+            
+        }  
+    },
+
+    "kashi-varanasi" : {
+        "link" : "kashi-varanasi",
+        "heading" : "Kashi/Varanasi",
+        "overview" : [],
+        "duration" : "1N/2D",
+        "route" : ["Varanasi"],
+        "image" : [
+            {"src": "/images/places/varanasi/temple/kashi_vishwanath_dham_1.png", "alt": "Kashi Vishwanath Temple in Varanasi with its golden spire and intricate architecture."},
+            {"src": "/images/places/varanasi/temple/ganga_dwar_kashi_vishwanath_dham.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/ganga_aarti/ganga_aarti_8.jpg", "alt": "Evening Ganga Aarti ceremony at Dashashwamedh Ghat Varanasi with priests performing rituals by the river."},
+            {"src" : "/images/places/varanasi/ghat/boating_view_ganga_2.jpg", "alt" : "Boating along the ghats of Banaras with views of temples and historic structures by the Ganga River."},
+            {"src": "/images/places/varanasi/ghat/assi_ghat_topview.jpg", "alt": "Beautiful top view of Assi Ghat with the Ganges River and boats along the shore in Varanasi."},
+            {"src": "/images/places/varanasi/ghat/assi_ghat_1.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/ghat/ghat_varanasi.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/temple/kashi_vishwanath_bhu.jpg", "alt": "Kashi Vishwanath Mandir at BHU campus with its grand architecture and peaceful surroundings."},
+            {"src": "/images/places/varanasi/temple/durga_mata_mandir.jpg", "alt": "Vibrant Durga Mata Mandir at Durgakund with its striking red facade and serene temple pond in Varanasi."},
+            {"src": "/images/places/varanasi/temple/tulsi_manas_mandir_1.jpg", "alt": "Elegant Tulsi Manas Temple at Durgakund, Varanasi known for its white marble structure and Ramcharitmanas inscriptions."},
+            {"src": "/images/places/varanasi/temple/sankat_mochan.jpg", "alt": "Sankat Mochan Hanuman Temple in Durgakund Varanasi, a revered shrine surrounded by lush greenery."},
+            {"src": "/images/places/varanasi/sarnath/sarnath_temple_1.jpg", "alt": "Sarnath Temple, a significant Buddhist site featuring elegant architecture and serene surroundings, marking the location of Buddha's first sermon."},
+            {"src": "/images/places/varanasi/sarnath/dhamek_stupa_2.jpg", "alt": "Historic Dhamek Stupa at Sarnath, Varanasi a massive cylindrical structure symbolizing Buddha’s first sermon."},
+            {"src": "/images/places/varanasi/sarnath/chaukhandi_stupa.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/sarnath/buddha_statue_sarnath_2.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src" : "/images/places/varanasi/sarnath/sarnath_archaeological_museum.jpg", "alt" : "Abc"},
+            {"src" : "/images/places/varanasi/sarnath/sarnath_archaeological_museum_statues.jpg", "alt" : "Abc"},
+            {"src" : "/images/places/varanasi/sarnath/ashoka_pillar_sarnath.jpg", "alt" : "Abc"}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival and Evening Aarti",
+                "desc" : [
+                    {
+                        "text" : "Arrival:",
+                        "description" : "Arrive at Varanasi Airport or Railway Station. Check into your hotel."
+                    },
+                    {
+                        "text" : "Afternoon Exploration:",
+                        "description" : "Visit the iconic Kashi Vishwanath Temple, dedicated to Lord Shiva. Explore the narrow lanes around the temple, experiencing the vibrant local culture."
+                    },
+                    {
+                        "text" : "Evening Aarti:",
+                        "description" : "Witness the mesmerizing Ganga Aarti at Dashashwamedh Ghat. The spectacle of hundreds of lamps being lit on the banks of the Ganges is a truly unforgettable experience."
+                    },
+                    {
+                        "text" : "Dinner:",
+                        "description" : "Enjoy a delicious meal at a local restaurant, savoring the flavors of Varanasi's cuisine."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Spiritual and Cultural Immersion",
+                "desc" : [
+                    {
+                        "text" : "Morning Boat Ride:",
+                        "description" : "Start your day with a serene boat ride on the Ganges. Explore the various ghats, witnessing the daily life of the locals."
+                    },
+                    {
+                        "text" : "Temple Hopping:",
+                        "description" : "Visit other significant temples like Annapurna Temple, Kal Bhairav Temple, and Tulsi Manas Mandir."
+                    },
+                    {
+                        "text" : "Sarnath:",
+                        "description" : "Take a half-day excursion to Sarnath, the site of Lord Buddha's first sermon. Explore the Dhamek Stupa, the Chaukhandi Stupa, and the Archaeological Museum."
+                    },
+                    {
+                        "text" : "Shopping:",
+                        "description" : "Visit the local markets to buy souvenirs, handicrafts, and traditional textiles."
+                    }
+                ]
+            }
+        ],
+        "tips" : [
+            {
+                "text" : "Early Morning:",
+                "description" : "To avoid crowds, consider visiting the temples and ghats early in the morning."
+            },
+            {
+                "text" : "Local Guide:",
+                "description" : "Hiring a local guide can provide valuable insights into the history, culture, and spiritual significance of Varanasi."
+            },
+            {
+                "text" : "Accommodation:",
+                "description" : "Choose a hotel near the ghats for easy access to the main attractions."
+            },
+            {
+                "text" : "Food:",
+                "description" : "Don't miss the opportunity to try local delicacies like chaat, kachori, and lassi."
+            }
+        ],
+        "featured" : {
+            "visible" : true,
+            "description" : "Varanasi Tour",
+            "image" : {"src": "/images/places/varanasi/temple/kashi_vishwanath_dham_1.png", "alt": "Kashi Vishwanath Temple in Varanasi with its golden spire and intricate architecture."}
+        }
+    },
+
+    "varanasi-religious-tour-plan" : {
+        "link" : "varanasi-religious-tour-plan",
+        "heading" : "Varanasi Religious Tour Plan",
+        "overview" : [ 
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "Varanasi, one of India's most sacred cities, offers a profound spiritual experience for visitors. Nestled on the banks of the Ganges River, this ancient city is steeped in history and tradition."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"A pilgrimage to Varanasi often includes visits to iconic religious sites such as Kashi Vishwanath Temple, one of the holiest Hindu temples dedicated to Lord Shiva. The city is also home to Sarnath, the place where Buddha delivered his first sermon."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"Beyond religious sites, Varanasi offers a glimpse into India's rich cultural heritage. Witness the mesmerizing Ganga Aarti, a daily evening ritual on the banks of the Ganges River, and explore the vibrant local markets filled with handicrafts and traditional textiles."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"For those seeking a deeper spiritual connection, Varanasi provides opportunities for meditation, yoga, and spiritual discourses. The city's serene atmosphere and the constant chanting of mantras create a conducive environment for introspection."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text":"Whether you are a devout Hindu or simply seeking a spiritual experience, Varanasi offers a unique and transformative journey."}
+                ]
+            }
+        ],
+        "duration" : "2N/3D",
+        "route" : ["Varanasi"],
+        "image" : [
+            {"src": "/images/places/varanasi/temple/kashi_vishwanath_dham_1.png", "alt": "Kashi Vishwanath Temple in Varanasi with its golden spire and intricate architecture."},
+            {"src": "/images/places/varanasi/temple/ganga_dwar_kashi_vishwanath_dham.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/ganga_aarti/ganga_aarti_1.jpg", "alt": "Evening Ganga Aarti ceremony at Dashashwamedh Ghat Varanasi with priests performing rituals by the river."},
+            {"src": "/images/places/varanasi/sarnath/sarnath_temple_1.jpg", "alt": "Sarnath Temple, a significant Buddhist site featuring elegant architecture and serene surroundings, marking the location of Buddha's first sermon."},
+            {"src": "/images/places/varanasi/sarnath/dhamek_stupa_1.jpg", "alt": "Historic Dhamek Stupa at Sarnath, Varanasi a massive cylindrical structure symbolizing Buddha’s first sermon."},
+            {"src": "/images/places/varanasi/sarnath/chaukhandi_stupa.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/sarnath/buddha_statue_sarnath_2.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src" : "/images/places/varanasi/sarnath/sarnath_archaeological_museum.jpg", "alt" : "Abc"},
+            {"src" : "/images/places/varanasi/sarnath/sarnath_archaeological_museum_statues.jpg", "alt" : "Abc"},
+            {"src" : "/images/places/varanasi/sarnath/ashoka_pillar_sarnath.jpg", "alt" : "Abc"},
+            {"src": "/images/places/varanasi/ghat/assi_ghat_1.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/ghat/assi_ghat_2.jpg", "alt": "Abc"},
+            {"src" : "/images/places/varanasi/ghat/manikarnika_ghat_2.jpg", "alt" : "Abc"}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival and Spiritual Immersion",
+                "desc" : [
+                    {
+                        "text" : "Arrival:",
+                        "description" : "Arrive at Varanasi Airport or Railway Station."
+                    },
+                    {
+                        "text" : "Check-in:",
+                        "description" : "Transfer to your hotel and check-in."
+                    },
+                    {
+                        "text" : "Kashi Vishwanath Temple:",
+                        "description" : "Embark on a spiritual journey by visiting the Kashi Vishwanath Temple, one of the holiest Hindu temples dedicated to Lord Shiva."
+                    },
+                    {
+                        "text" : "Ganga Aarti:",
+                        "description" : "Witness the mesmerizing Ganga Aarti at Dasaswamedh Ghat, a spectacular evening ritual on the banks of the Ganges River."
+                    },
+                    {
+                        "text" : "Dinner:",
+                        "description" : "Enjoy a delicious dinner at a local restaurant, savoring the flavors of Varanasi's cuisine."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Exploring Sarnath and Local Culture",
+                "desc" : [
+                    {
+                        "text" : "Sarnath Tour:",
+                        "description" : "Visit Sarnath, the place where Buddha delivered his first sermon after attaining enlightenment. Explore the ancient Buddhist sites, including the Dhamek Stupa, Chaukhandi Stupa, and the Archaeological Museum."
+                    },
+                    {
+                        "text" : "Kashi Silk Handloom:",
+                        "description" : "Immerse yourself in the rich textile heritage of Varanasi by visiting a Kashi Silk Handloom center. Witness the intricate process of silk weaving and purchase exquisite silk products."
+                    },
+                    {
+                        "text" : "Evening Walk:",
+                        "description" : "Take a leisurely evening walk along the ghats of Varanasi, soaking in the serene atmosphere and vibrant culture."
+                    }
+                ]
+            },
+            {
+                "day" : "Day3",
+                "heading" : "Farewell to Varanasi",
+                "desc" : [
+                    {
+                        "text" : "Manikarnika Ghat:",
+                        "description" : "Visit Manikarnika Ghat, the cremation ground on the banks of the Ganges, where Hindus believe that death is a gateway to liberation."
+                    },
+                    {
+                        "text" : "Check-out:",
+                        "description" : "Check out from your hotel and transfer to the airport or railway station for your return journey."
+                    }
+                ]
+            }
+        ],
+        "featured" : {
+            "visible" : false,
+            "description" : "Varanasi Religious",
+            "image" : {"src": "/images/places/varanasi/temple/kashi_vishwanath_dham_1.png", "alt": "Kashi Vishwanath Temple in Varanasi with its golden spire and intricate architecture."}
+        }
+    },
+
+    "varanasi-prayagraj-ayodhya-tour" : {
+        "link" : "varanasi-prayagraj-ayodhya-tour",
+        "heading" : "Varanasi, Prayagraj, Ayodhya Tour",
+        "overview" : [
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "This 4-day tour package offers a comprehensive exploration of three sacred cities in Uttar Pradesh, India: Varanasi, Prayagraj, and Ayodhya."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "Begin your journey in Varanasi, one of the holiest Hindu cities, and immerse yourself in its spiritual atmosphere. Visit iconic sites like Kashi Vishwanath Temple and Sarnath, and witness the mesmerizing Ganga Aarti."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "Continue your pilgrimage to Prayagraj, the confluence of three sacred rivers: Ganges, Yamuna, and Saraswati. Explore Triveni Sangam, the holy intersection of these rivers, and visit other historical sites like Allahabad Fort."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "Your final destination is Ayodhya, the birthplace of Lord Rama. Visit Ram Janmabhoomi Temple, the site believed to be Lord Rama's birthplace, and explore other significant religious sites in the city."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "This tour package provides a unique opportunity to delve into the rich spiritual and cultural heritage of these ancient cities. With comfortable accommodations, guided tours, and transportation included, you can focus on experiencing the profound spiritual significance of this journey."}
+                ]
+            }
+        ],
+        "duration" : "3N/4D",
+        "route" : ["Varanasi", "Prayagraj", "Ayodhya"],
+        "image" : [
+            {"src": "/images/places/varanasi/temple/kashi_vishwanath_dham_1.png", "alt": "Kashi Vishwanath Temple in Varanasi with its golden spire and intricate architecture."},
+            {"src": "/images/places/varanasi/temple/ganga_dwar_kashi_vishwanath_dham.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/ganga_aarti/ganga_aarti_1.jpg", "alt": "Evening Ganga Aarti ceremony at Dashashwamedh Ghat Varanasi with priests performing rituals by the river."},
+            {"src": "/images/places/varanasi/sarnath/sarnath_temple_1.jpg", "alt": "Sarnath Temple, a significant Buddhist site featuring elegant architecture and serene surroundings, marking the location of Buddha's first sermon."},
+            {"src": "/images/places/varanasi/sarnath/dhamek_stupa_1.jpg", "alt": "Historic Dhamek Stupa at Sarnath, Varanasi a massive cylindrical structure symbolizing Buddha’s first sermon."},
+            {"src": "/images/places/varanasi/sarnath/chaukhandi_stupa.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/sarnath/buddha_statue_sarnath_2.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src" : "/images/places/varanasi/sarnath/sarnath_archaeological_museum.jpg", "alt" : "Abc"},
+            {"src" : "/images/places/varanasi/sarnath/ashoka_pillar_sarnath.jpg", "alt" : "Abc"},
+            { "src" : "/images/places/prayagraj/triveni_sangam_3.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/triveni_sangam_1.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/akbar_fort_3.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/khusro_bagh.jpg", "alt" : ""},
+            {"src": "/images/places/ayodhya/ram_janmabhoomi_2.jpg", "alt": "Beautiful Ram Janmabhoomi Mandir in Ayodhya, Uttar Pradesh, featuring stunning architecture and rich historic significance"},
+            {"src": "/images/places/ayodhya/saryu_river_nayaghat.jpg", "alt": "Scenic view of the Saryu River at Nayaghat in Ayodhya, featuring calm waters and lush greenery along the banks, with colorful boats docked at the shore."},
+            {"src": "/images/places/ayodhya/lata_mangeshkar_chowk.jpg", "alt": "Veena sculpture at Lata Mangeshkar Chowk, Ayodhya, honoring legendary singer Lata Mangeshkar's contribution to Indian music."},
+            {"src": "/images/places/ayodhya/ayodhya_ghat.jpg", "alt": "Abc"},
+            {"src": "/images/places/ayodhya/hanuman_garhi_2.jpg", "alt": "Abc"},
+            {"src": "/images/places/ayodhya/hanuman_garhi.jpg", "alt": "Abc"}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival in Varanasi and Spiritual Immersion",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Arrive at Varanasi Airport or Railway Station."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Check-in at your hotel."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit Kashi Vishwanath Temple, one of the holiest Hindu temples dedicated to Lord Shiva."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Witness the mesmerizing Ganga Aarti at Dasaswamedh Ghat."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Exploring Sarnath and Local Culture",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Visit Sarnath, the place where Buddha delivered his first sermon."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore the ancient Buddhist sites."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit a Kashi Silk Handloom center."
+                    }
+                ]
+            },
+            {
+                "day" : "Day3",
+                "heading" : "Journey to Prayagraj",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Travel to Prayagraj, the confluence of the Ganges, Yamuna, and Saraswati rivers."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit Triveni Sangam, where the three rivers meet."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore the Allahabad Fort and the Allahabad High Court."
+                    }
+                ]
+            },
+            {
+                "day" : "Day4",
+                "heading" : "Pilgrimage to Ayodhya",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Travel to Ayodhya, the birthplace of Lord Rama."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit Ram Janmabhoomi Temple, the site where Lord Rama is believed to have been born."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore other religious sites like Hanuman Garhi and Nagesar Kund."
+                    }
+                ]
+            }
+        ],
+        "featured" : {
+            "visible" : false,
+            "description" : "Varanasi-Ayodhya",
+            "image" : { "src": "/images/places/ayodhya/ram_janmabhoomi_2.jpg", "alt": "Beautiful Ram Janmabhoomi Mandir in Ayodhya, Uttar Pradesh, featuring stunning architecture and rich historic significance"}
+        }
+    },
+
+    "varanasi-prayagraj-chitrakoot-and-ayodhya-tour-package" : {
+        "link" : "varanasi-prayagraj-chitrakoot-and-ayodhya-tour-package",
+        "heading" : "Varanasi, Prayagraj, Chitrakoot, and Ayodhya Tour Package",
+        "overview" : [
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "Varanasi, Prayagraj, Chitrakoot, and Ayodhya – these four sacred cities represent the rich religious and cultural heritage of India. Vanshika Tours and Travels brings you a unique and spiritual journey to these four cities."}
+                ]
+            }
+        ],
+        "duration" : "5N/6D",
+        "route" : ["Varanasi", "Prayagraj", "Chitrakoot", "Ayodhya"],
+        "image" : [
+            {"src": "/images/places/varanasi/temple/kashi_vishwanath_dham_1.png", "alt": "Kashi Vishwanath Temple in Varanasi with its golden spire and intricate architecture."},
+            {"src": "/images/places/varanasi/temple/ganga_dwar_kashi_vishwanath_dham.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/ganga_aarti/ganga_aarti_1.jpg", "alt": "Evening Ganga Aarti ceremony at Dashashwamedh Ghat Varanasi with priests performing rituals by the river."},
+            {"src" : "/images/places/varanasi/ghat/boating_view_ganga_1.jpg", "alt" : "Boating along the ghats of Banaras with views of temples and historic structures by the Ganga River."},
+            {"src": "/images/places/varanasi/temple/kashi_vishwanath_bhu.jpg", "alt": "Kashi Vishwanath Mandir at BHU campus with its grand architecture and peaceful surroundings."},
+            {"src": "/images/places/varanasi/temple/durga_mata_mandir.jpg", "alt": "Vibrant Durga Mata Mandir at Durgakund with its striking red facade and serene temple pond in Varanasi."},
+            {"src": "/images/places/varanasi/temple/tulsi_manas_mandir_1.jpg", "alt": "Elegant Tulsi Manas Temple at Durgakund, Varanasi known for its white marble structure and Ramcharitmanas inscriptions."},
+            {"src": "/images/places/varanasi/temple/sankat_mochan.jpg", "alt": "Sankat Mochan Hanuman Temple in Durgakund Varanasi, a revered shrine surrounded by lush greenery."},
+            {"src": "/images/places/varanasi/sarnath/sarnath_temple_1.jpg", "alt": "Sarnath Temple, a significant Buddhist site featuring elegant architecture and serene surroundings, marking the location of Buddha's first sermon."},
+            {"src": "/images/places/varanasi/sarnath/dhamek_stupa_1.jpg", "alt": "Historic Dhamek Stupa at Sarnath, Varanasi a massive cylindrical structure symbolizing Buddha’s first sermon."},
+            {"src": "/images/places/varanasi/sarnath/chaukhandi_stupa.jpg", "alt": "Abc"},
+            {"src": "/images/places/varanasi/sarnath/buddha_statue_sarnath_1.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src" : "/images/places/varanasi/sarnath/ashoka_chakra_sarnath.jpg", "alt" : "Abc"},
+            {"src": "/images/places/varanasi/sarnath/giant_bell_mulagandhakuti_vihara.jpg", "alt": "Majestic Buddha statue at Sarnath, Varanasi symbolizing peace and enlightenment, surrounded by lush greenery."},
+            {"src" : "/images/places/varanasi/sarnath/ashoka_pillar_sarnath.jpg", "alt" : "Abc"},
+            { "src" : "/images/places/prayagraj/triveni_sangam_3.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/triveni_sangam_1.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/kumbh_tents.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/akbar_fort_3.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/akbar_fort_1.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/khusro_bagh.jpg", "alt" : ""},
+            {"src": "/images/places/chitrakoot/ramghat_2.jpg", "alt": "Scenic view of Ramghat in Chitrakoot, featuring calm river waters with several colorful boats lined along the banks of Mandakini river."},
+            {"src": "/images/places/chitrakoot/bharat_milap_mandir.jpg", "alt": "Abc"},
+            {"src": "/images/places/chitrakoot/janki_kund_1.jpeg", "alt": "Abc"},
+            {"src": "/images/places/chitrakoot/janki_kund_4.jpg", "alt": "Abc"},
+            {"src": "/images/places/chitrakoot/boating_view.jpeg", "alt": "Abc"},
+            {"src": "/images/places/chitrakoot/mandakini_ghat.jpg", "alt": "Abc"},
+            {"src": "/images/places/ayodhya/ram_janmabhoomi_2.jpg", "alt": "Beautiful Ram Janmabhoomi Mandir in Ayodhya, Uttar Pradesh, featuring stunning architecture and rich historic significance"},
+            {"src": "/images/places/ayodhya/saryu_river_nayaghat.jpg", "alt": "Scenic view of the Saryu River at Nayaghat in Ayodhya, featuring calm waters and lush greenery along the banks, with colorful boats docked at the shore."},
+            {"src": "/images/places/ayodhya/lata_mangeshkar_chowk.jpg", "alt": "Veena sculpture at Lata Mangeshkar Chowk, Ayodhya, honoring legendary singer Lata Mangeshkar's contribution to Indian music."},
+            {"src": "/images/places/ayodhya/hanuman_garhi_2.jpg", "alt": "Abc"},
+            {"src": "/images/places/ayodhya/hanuman_garhi.jpg", "alt": "Abc"}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival in Varanasi",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Arrive at Varanasi Airport or Railway Station."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Check-in at your hotel."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit Kashi Vishwanath Temple."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Participate in the Ganga Aarti at Dashashwamedh Ghat in the evening."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Exploring Varanasi",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Boat ride on the Ganges River."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit Annapurna Temple, Kal Bhairav Temple, and Tulsi Manas Mandir."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore Sarnath, where Buddha delivered his first sermon."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Shopping at local markets."
+                    }
+                ]
+            },
+            {
+                "day" : "Day3",
+                "heading" : "Prayagraj",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Depart for Prayagraj."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Bath at Triveni Sangam."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit Allahabad Fort and Kumbh Mela ground."
+                    }
+                ]
+            },
+            {
+                "day" : "Day4",
+                "heading" : "Chitrakoot",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Depart for Chitrakoot."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit Ramghat, Kamadgiri, Bharat Milap, and Janaki Kund."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Boat ride on the Mandakini River."
+                    }
+                ]
+            },
+            {
+                "day" : "Day5",
+                "heading" : "Ayodhya",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Depart for Ayodhya."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit Ram Janmabhoomi Temple, Hanuman Garhi, and the banks of the Sarayu River."
+                    }
+                ]
+            },
+            {
+                "day" : "Day6",
+                "heading" : "Departure",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Depart for your destination."
+                    }
+                ]
+            }
+        ],
+        "featured" : {
+            "visible" : true,
+            "description" : "Varanasi-Ayodhya",
+            "image" : { "src": "/images/places/ayodhya/ram_janmabhoomi_2.jpg", "alt": "Beautiful Ram Janmabhoomi Mandir in Ayodhya, Uttar Pradesh, featuring stunning architecture and rich historic significance"}
+        }
+    },
+
+    "prayagraj-kumbh-mela" : {
+        "link" : "prayagraj-kumbh-mela",
+        "heading" : "Prayagraj Kumbh Mela",
+        "overview" : [],
+        "duration" : "3N/4D",
+        "route" : ["Prayagraj"],
+        "image" : [
+            { "src" : "/images/places/prayagraj/kumbh_mela_prayagraj_4.png", "alt" : ""},
+            { "src" : "/images/places/prayagraj/triveni_sangam_3.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/kumbh_mela_prayagraj_3.png", "alt" : ""},
+            { "src" : "/images/places/prayagraj/triveni_sangam_1.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/kumbh_tents.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/akbar_fort_3.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/akbar_fort_1.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/khusro_bagh.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/allahabad_museum_2.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/anand_bhawan.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/swaraj_bhawan.jpg", "alt" : ""},
+            { "src" : "/images/places/prayagraj/chandrasekhar_azad_park.jpg", "alt" : ""}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival in Prayagraj and Kumbh Mela Immersion",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Arrive at Prayagraj Airport or Railway Station."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Check-in at your hotel."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit the Kumbh Mela grounds and witness the bustling atmosphere."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Attend the evening Ganga Aarti at Triveni Sangam."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Sacred Bath and Cultural Exploration",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Take a holy dip in the Triveni Sangam, the confluence of the Ganges, Yamuna, and Saraswati rivers."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore the various religious sites within the Kumbh Mela grounds."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Witness the colorful processions and religious rituals."
+                    }
+                ]
+            },
+            {
+                "day" : "Day3",
+                "heading" : "Kumbh Mela Highlights",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Participate in the Shahi Snana, the Royal Bath, if it falls on this day."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit the Akhara Bagh, where the sadhus (ascetics) reside."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Explore the vibrant markets and fairs at the Kumbh Mela."
+                    }
+                ]
+            },
+            {
+                "day" : "Day4",
+                "heading" : "Cultural Experiences and Departure",
+                "desc" : [
+                    {
+                        "text" : "",
+                        "description" : "Attend a cultural program or performance showcasing the rich traditions of India."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Visit local temples and historical sites in Prayagraj."
+                    },
+                    {
+                        "text" : "",
+                        "description" : "Depart for your return journey."
+                    }
+                ]
+            }
+        ],
+        "featured" : {
+            "visible" : true,
+            "description" : "Prayagraj Kumbh",
+            "image" : { "src" : "/images/places/prayagraj/kumbh_mela_prayagraj_4.png", "alt" : ""}
+        }
+    },
+
+    "kashi-pind-daan" : {
+        "link" : "kashi-pind-daan",
+        "heading" : "Kashi Pind Daan",
+        "overview" : [
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "The Kashi Pind Daan ritual is a Hindu ceremony performed in Varanasi to offer peace and salvation to the souls of departed ancestors. Varanasi, a highly revered spiritual city, is considered an auspicious place for this ritual, believed to help free souls from the cycle of rebirth."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "The Pind Daan ritual is conducted at the holy ghats of Varanasi, such as Manikarnika Ghat or Dashashwamedh Ghat, under the guidance of experienced priests. This ancient practice is an important act of devotion for Hindus, performed to ensure peace and liberation for the souls of the deceased."}
+                ]
+            }
+        ],
+        "duration" : "1N/2D",
+        "route" : ["Kashi"],
+        "image" : [
+            { "src" : "/images/places/pind_daan/pind_daan_kashi_2.png", "alt" : ""},
+            { "src" : "/images/places/pind_daan/pind_daan_prayagraj.png", "alt" : ""}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival in Varanasi and Pind Daan Ritual",
+                "desc" : [
+                    {
+                        "text" : "Arrival:",
+                        "description" : "Arrive at Varanasi Airport/Railway Station, our representatives will be there to greet you. After a warm welcome, you will be transferred to your pre-booked hotel where you can check-in and freshen up."
+                    },
+                    {
+                        "text" : "Pind Daan Ritual:",
+                        "description" : "After refreshment, we will proceed to the Ghats of Varanasi (most commonly at Manikarnika Ghat or Dashashwamedh Ghat) where the Pind Daan ritual will be performed by experienced priests."
+                    },
+                    {
+                        "text" : "Lunch:",
+                        "description" : "Post-Pind Daan, return to the hotel for some rest. Enjoy a traditional lunch (as per the rituals)."
+                    },
+                    {
+                        "text" : "Ganga Aarti:",
+                        "description" : "In the evening, proceed to the famous Dashashwamedh Ghat for the mesmerizing Ganga Aarti."
+                    },
+                    {
+                        "text" : "Dinner & Overnight Stay:",
+                        "description" : "After the Aarti, you will be transferred back to the hotel for dinner and a comfortable overnight stay in Varanasi."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Temple Tour and Departure",
+                "desc" : [
+                    {
+                        "text" : "Morning:",
+                        "description" : "After an early breakfast, embark on a Temple Tour of Varanasi, visiting the most famous temples:",
+                        "nestedList" : [
+                            {"text" : "Kashi Vishwanath Temple: ", "description" : "One of the 12 Jyotirlingas of Lord Shiva and a major spiritual destination."},
+                            {"text" : "Annapurna Temple: ", "description" : "Dedicated to the Goddess of food and nourishment."},
+                            {"text" : "Kalbhairav Temple: ", "description" : "A protector deity and important figure in Varanasi’s religious life."}
+                        ]
+                    },
+                    {
+                        "text" : "Optional Visit:",
+                        "description" : "If time allows, visit the Sarnath, where Lord Buddha delivered his first sermon."
+                    },
+                    {
+                        "text" : "Drop-off:",
+                        "description" : "After the temple visits, we will transfer you back to Varanasi Airport/Railway Station for your onward journey."
+                    }
+                ]
+            }
+        ],
+        "featured" : {
+            "visible" : false,
+            "description" : "Kashi-Pind-daan",
+            "image" : { "src" : "/images/places/prayagraj/kumbh_tents.jpg", "alt" : "Aerial view of Kumbh tents spread across a vast area in Prayagraj (Allahabad), with numerous temporary shelters set up for pilgrims and devotees during the Kumbh Mela festival."}
+        }
+    },
+
+    "prayagraj-pind-daan" : {
+        "link" : "prayagraj-pind-daan",
+        "heading" : "Prayagraj Pind Daan",
+        "overview" : [
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "Prayagraj (earlier known as Allahabad) Pind Daan ritual is a sacred Hindu ceremony performed at the Triveni Sangam, the confluence of the holy rivers Ganga, Yamuna, and the mystical Saraswati. This location is considered highly auspicious for conducting the Pind Daan, which is performed to offer peace and salvation to the souls of ancestors, helping them attain liberation (moksha)."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "The ceremony is conducted by experienced priests at the Sangam, following ancient Vedic traditions. This ritual holds immense spiritual significance for Hindus, allowing families to honor their ancestors in one of India’s holiest cities."}
+                ]
+            }
+        ],
+        "duration" : "1N/2D",
+        "route" : ["Prayagraj"],
+        "image" : [
+            { "src" : "/images/places/pind_daan/pind_daan_kashi_2.png", "alt" : ""},
+            { "src" : "/images/places/pind_daan/pind_daan_prayagraj.png", "alt" : ""}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival in Prayagraj and Pind Daan Ritual",
+                "desc" : [
+                    {
+                        "text" : "Arrival:",
+                        "description" : "Upon arrival at Prayagraj Airport/Railway Station, you will be warmly welcomed by our representatives. You will then be transferred to your pre-booked hotel for check-in and refreshment."
+                    },
+                    {
+                        "text" : "Pind Daan Ritual:",
+                        "description" : "After freshening up, proceed to the sacred site at the Triveni Sangam—the confluence of the holy rivers Ganga, Yamuna, and the mystical Saraswati. This is considered one of the most powerful and sacred places for performing the Pind Daan. Our experienced priests will guide you through the ritual, which is done to offer peace and moksha (liberation) to the souls of ancestors."
+                    },
+                    {
+                        "text" : "Lunch:",
+                        "description" : "After the ritual, return to the hotel for some rest and enjoy a traditional vegetarian lunch."
+                    },
+                    {
+                        "text" : "Evening Leisure:",
+                        "description" : "You can opt for a visit to nearby temples, or take a peaceful stroll along the ghats, soaking in the spiritual ambiance of Prayagraj."
+                    },
+                    {
+                        "text" : "Dinner & Overnight Stay:",
+                        "description" : "After a day filled with sacred experiences, return to the hotel for dinner and a comfortable overnight stay."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Temple Tour and Departure",
+                "desc" : [
+                    {
+                        "text" : "Morning:",
+                        "description" : "After breakfast, embark on a short Temple Tour, visiting the famous:",
+                        "nestedList" : [
+                            {"text" : "Hanuman Temple ", "description" : "(Prayagraj’s iconic reclining Hanuman idol)."},
+                            {"text" : "Anand Bhawan ", "description" : "(optional for those interested in history; it is the ancestral home of the Nehru family)."}
+                        ]
+                    },
+                    {
+                        "text" : "Drop-off:",
+                        "description" : "After the tour, we will drop you back at Prayagraj Airport/Railway Station for your onward journey, leaving with a deep sense of spiritual fulfillment."
+                    }
+                ]
+            }
+        ],
+        "featured" : {
+            "visible" : false,
+            "description" : "Prayagraj-Pind-daan",
+            "image" : { "src" : "/images/places/prayagraj/kumbh_tents.jpg", "alt" : "Aerial view of Kumbh tents spread across a vast area in Prayagraj (Allahabad), with numerous temporary shelters set up for pilgrims and devotees during the Kumbh Mela festival."}
+        }
+    },
+
+    "pind-daan-at-varanasi-and-prayagraj" : {
+        "link" : "pind-daan-at-varanasi-and-prayagraj",
+        "heading" : "Pind Daan at Varanasi and Prayagraj",
+        "overview" : [
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "The Pind Daan ritual in Varanasi and Prayagraj is a sacred ceremony performed to offer peace and liberation to the souls of departed ancestors."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "In Varanasi, the ritual is conducted at the holy Manikarnika Ghat or Dashashwamedh Ghat, two of the most revered ghats along the Ganges River. Experienced priests guide families through the ceremony, believed to help ancestors attain moksha (salvation). The day concludes with the captivating Ganga Aarti at Dashashwamedh Ghat."}
+                ]
+            },
+            {
+                "type":"paragraph",
+                "content":[
+                    {"text" : "In Prayagraj, the Pind Daan is performed at the Triveni Sangam, the confluence of the Ganga, Yamuna, and the sacred Saraswati river. This site is considered highly auspicious for such rituals, believed to purify the soul and grant peace to ancestors."}
+                ]
+            }
+        ],
+        "duration" : "1N/2D",
+        "route" : ["Varanasi","Prayagraj"],
+        "image" : [
+            { "src" : "/images/places/pind_daan/pind_daan_kashi_2.png", "alt" : ""},
+            { "src" : "/images/places/pind_daan/pind_daan_prayagraj.png", "alt" : ""}
+        ],
+        "itinerary" : [
+            {
+                "day" : "Day1",
+                "heading" : "Arrival in Varanasi and Pind Daan Ritual",
+                "desc" : [
+                    {
+                        "text" : "Arrival:",
+                        "description" : "Arrive at Varanasi Airport/Railway Station, our representatives will warmly greet you. After a short transfer to your pre-booked hotel, check-in and relax for a while."
+                    },
+                    {
+                        "text" : "Pind Daan Ritual in Varanasi:",
+                        "description" : "After refreshment, proceed to the sacred Manikarnika Ghat or Dashashwamedh Ghat for the Pind Daan ritual, where our experienced priests will guide you through the ceremony. This ancient ritual offers peace and salvation to the souls of your ancestors."
+                    },
+                    {
+                        "text" : "Lunch:",
+                        "description" : "After the ritual, return to the hotel for a traditional lunch."
+                    },
+                    {
+                        "text" : "Evening Ganga Aarti:",
+                        "description" : "In the evening, witness the awe-inspiring Ganga Aarti at Dashashwamedh Ghat, a beautiful and devotional ceremony performed on the banks of the holy Ganges River."
+                    },
+                    {
+                        "text" : "Dinner & Overnight Stay:",
+                        "description" : "After the Aarti, return to your hotel for dinner and an overnight stay in Varanasi."
+                    }
+                ]
+            },
+            {
+                "day" : "Day2",
+                "heading" : "Pind Daan at Triveni Sangam, Prayagraj and Departure",
+                "desc" : [
+                    {
+                        "text" : "Transfer to Prayagraj:",
+                        "description" : "After an early breakfast, check out and head to Prayagraj (approx. 2.5–3 hours drive). Upon arrival, proceed to the sacred Triveni Sangam, the confluence of the rivers Ganga, Yamuna, and the mystical Saraswati."
+                    },
+                    {
+                        "text" : "Pind Daan Ritual at Prayagraj:",
+                        "description" : "At the Triveni Sangam, perform the Pind Daan ritual under the guidance of experienced priests. This location is believed to be one of the most sacred spots for offering prayers for the peace and liberation (moksha) of departed souls."
+                    },
+                    {
+                        "text" : "Lunch & Departure:",
+                        "description" : "After the ritual, you can have lunch at a local restaurant or packed lunch, followed by a drop-off at Prayagraj Airport/Railway Station for your onward journey, bringing your spiritually enriching journey to a close."
+                    }
+                ]
+            }
+        ],
+        "featured" : {
+            "visible" : false,
+            "description" : "Prayagraj-Varanasi-Pind-daan",
+            "image" : { "src" : "/images/places/prayagraj/kumbh_tents.jpg", "alt" : "Aerial view of Kumbh tents spread across a vast area in Prayagraj (Allahabad), with numerous temporary shelters set up for pilgrims and devotees during the Kumbh Mela festival."}
+        }
+    }
+}

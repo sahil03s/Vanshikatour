@@ -1,0 +1,35 @@
+.expand
+{
+    transform: rotate(-90deg);
+    transition: transform 0.2s linear;
+}
+
+.shrink
+{
+    transform: rotate(0deg);
+    transition: transform 0.2s linear;
+}
+
+.hidden-div {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-out;
+}
+
+.show-div {
+    overflow: hidden;
+    transition: max-height 0.5s ease-out;
+}
+
+.policy-subheading {
+    background-color: #ededed;
+}
+
+.policy-list li {
+    margin: 0.75rem 0;
+}
+
+.form-container input {
+    margin-bottom: 1rem;
+    width: 90%;
+}
